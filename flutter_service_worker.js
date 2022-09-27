@@ -21,13 +21,13 @@ const RESOURCES = {
 "icons/logo.png": "c75f74d2c73ac20c7e78e378227d3518",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"main.dart.js": "5ab3c648483de7feabc30c34fa0dfb06",
+"main.dart.js": "3aad5518bc9db04754e7b3f21409b7cd",
 "canvaskit/canvaskit.js": "43fa9e17039a625450b6aba93baf521e",
 "canvaskit/profiling/canvaskit.js": "f3bfccc993a1e0bfdd3440af60d99df4",
 "canvaskit/profiling/canvaskit.wasm": "a9610cf39260f60fbe7524a785c66101",
 "canvaskit/canvaskit.wasm": "04ed3c745ff1dee16504be01f9623498",
-"index.html": "b0cf3e59be7aa875ed4d93825d16ae3e",
-"/": "b0cf3e59be7aa875ed4d93825d16ae3e",
+"index.html": "43d9f9a73ce23c1f39ba30640a8e0050",
+"/": "43d9f9a73ce23c1f39ba30640a8e0050",
 "manifest.json": "4bf53434736df043009263956340d280",
 "version.json": "009c9e65172e010890f7f65fde438006"
 };
